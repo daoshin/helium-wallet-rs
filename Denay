@@ -1,0 +1,1 @@
+$ xorf-generator manifest generate --input denylist.csv --serial 2022012401
